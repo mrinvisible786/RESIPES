@@ -1,2 +1,2 @@
-# odin-resipes*
-hey there welcome to my resipes project
+# resipies
+hey there welcome to my resipies project
